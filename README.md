@@ -28,30 +28,3 @@ Este projeto tem como objetivo analisar o engajamento de postagens em redes soci
 6. *Tags Eficazes*
 
 7. *Tags e Presença de Pessoas*
-
-
-## Instruções de Uso
-
-1. *Pré-requisitos*:
-   - Python 3.7
-   - Bibliotecas: pandas, matplotlib, seaborn, openpyxl
-
-2. *Instalação*:
-   - Clone este repositório:
-     bash
-     git clone https://github.com/JoaoHeslin/analise-engajamento.git
-     
-   - Navegue até o diretório do projeto:
-     bash
-     cd analise-engajamento
-     
-
-3. *Executando o Código*:
-   - Abra um Jupyter Notebook e execute as células para gerar as análises e gráficos.
-   - Os scripts Python estão localizados em src/ e podem ser executados diretamente para obter os resultados.
-
-## Estrutura do Projeto
-
-- notebooks/: Contém os Jupyter Notebooks com análises e visualizações.
-- src/: Scripts Python para processamento de dados e geração de gráficos.
-- data/: Dados utilizados nas análises.
