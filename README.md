@@ -45,10 +45,6 @@ Este projeto tem como objetivo analisar o engajamento de postagens em redes soci
      bash
      cd analise-engajamento
      
-   - Instale as dependências:
-     bash
-     pip install -r requirements.txt
-     
 
 3. *Executando o Código*:
    - Abra um Jupyter Notebook e execute as células para gerar as análises e gráficos.
